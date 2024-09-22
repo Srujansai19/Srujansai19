@@ -5,8 +5,8 @@
 - 📫 How to reach me is
 -     Gmail: srujansaim04@gmail.com
 -     LinkedIn: http://www.linkedin.com/in/srujan-sai-manukonda-5751a5298
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Mr.Srujan
+- ⚡ Fun fact: I love riding Bikes and playing badminton.
 
 <!---
 Srujansai19/Srujansai19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
