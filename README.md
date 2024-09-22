@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Google.
 - 📫 How to reach me is
 -     Gmail: srujansaim04@gmail.com
+-     LinkedIn: http://www.linkedin.com/in/srujan-sai-manukonda-5751a5298
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
