@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Srujan Sai Manukonda
-- 👀 I’m interested in Game Designing and Full Stack Development.
+- 👀 I’m interested in Full Stack Development and AIML.
 - 🌱 I’m currently learning Full Stack using Java and Python.
-- 💞️ I’m looking to collaborate on Google.
 - 📫 How to reach me is
 -     Gmail: srujansaim04@gmail.com
 -     LinkedIn: http://www.linkedin.com/in/srujan19
