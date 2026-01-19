@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Srujan Sai Manukonda
+- 👋 Hi, I’m Bhanu Srujan Sai Manukonda
 - 👀 I’m interested in Full Stack Development and AIML.
 - 🌱 I’m currently learning Full Stack using Java and Python.
 - 📫 How to reach me is
